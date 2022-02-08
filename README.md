@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Meu nome é Tarcísio, sou completamente apaixonado por tecnologia. 
+My name's Tarcisio, I'm a tecnology lover.
 
-Atualmente, sou estudante de desenvolvimento web full stack na Trybe.
+Nowadays, I'm studying Web Development Full Stack at TRYBE!
 
 <br>
 
