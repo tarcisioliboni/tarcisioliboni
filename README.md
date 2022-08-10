@@ -26,7 +26,7 @@ Nowadays, I'm studying Web Development Full Stack at TRYBE!
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
-
+---
 
 <!-- REDES SOCIAIS -->
 <div align="center">
