@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name's Tarcisio, I'm a tecnology lover.
-
-Nowadays, I'm studying Web Development Full Stack at TRYBE!
+Sou um pessoa que ama tecnologia. Estou finalizando o curso de Desenvolvimento Web Full-Stack na Trybe, e durante o percurso fiquei apaixonado pelo Front-End, me aperfeicionado no estudo de JavaScript, React, HTML, CSS e processadores CSS.
 
 ---
 
