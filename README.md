@@ -24,7 +24,7 @@
 </p>
 </div>
 
----
+-----
 
 <!-- GITHUB STATUS -->
 <div align="center">
@@ -34,7 +34,7 @@
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
----
+-----
 
 <!-- REDES SOCIAIS -->
 <div align="center">
