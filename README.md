@@ -1,11 +1,19 @@
-### Hi there 👋
+<div>
+<img align="center" alt="Header" src="https://github.com/tarcisioliboni/tarcisioliboni/blob/main/img/header.png"/>
+</div>
 
-Sou um pessoa que ama tecnologia. Estou finalizando o curso de Desenvolvimento Web Full-Stack na Trybe, e durante o percurso fiquei apaixonado pelo Front-End, me aperfeicionado no estudo de JavaScript, React, HTML, CSS e processadores CSS.
+-----
 
----
+<div>
+<p>Olá</b> :wave:, sou o <b>Tarcísio</b>!</p>
+<p>Sou um pessoa que ama tecnologia. Estou finalizando o curso de Desenvolvimento Web Full-Stack na Trybe, e durante o percurso fiquei apaixonado pelo Front-End, me aperfeicionado no estudo de JavaScript, React, HTML, CSS e processadores CSS.</p>
+</div>
 
-### Skills
+-----
 
+### Linguagens e ferramentas:
+
+<div>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -14,6 +22,7 @@ Sou um pessoa que ama tecnologia. Estou finalizando o curso de Desenvolvimento W
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="36" height="36" alt="CSS" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" width="36" height="36" alt="SASS" /></a>
 </p>
+</div>
 
 ---
 
