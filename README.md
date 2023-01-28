@@ -6,7 +6,7 @@
 
 <div>
 <p>Olá</b> :wave:, sou o <b>Tarcísio</b>!</p>
-<p>Sou um pessoa que ama tecnologia. Estou finalizando o curso de Desenvolvimento Web Full-Stack na Trybe, e durante o percurso fiquei apaixonado pelo Front-End, me aperfeicionado no estudo de JavaScript, React, HTML, CSS e processadores CSS.</p>
+<p>Sou Desenvolvedor Web Full-Stack formado pela Trybe, e durante o percurso fiquei apaixonado pelo Front-End, me aperfeicionado no estudo de JavaScript, React, HTML, CSS e processadores CSS.</p>
 </div>
 
 -----
